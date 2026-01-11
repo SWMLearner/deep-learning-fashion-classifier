@@ -43,10 +43,32 @@ Systematic comparison of three CNN architectures for fashion image classificatio
 - **Scalability:** Optimized data pipeline handles batch processing
 - **Maintenance:** Model monitoring recommendations included
 
+## 🔗 Access the Project
+
+### **Option 1: Interactive Colab Notebook (Recommended)**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oIF4q5sabWbwMSLF0H6AOS2iUjSUr3CN?usp=sharing)
+
+Click the badge above to open the **complete interactive notebook** with all code, visualizations, and outputs in Google Colab.
+
+### **Option 2: Python Script**
+If you prefer to run locally or review the code:
+```bash
+python fashion_mnist_cnn.py
+
+
 ## 🚀 Getting Started
 
-### **Installation**
+### **Interactive Exploration (Quickest)**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oIF4q5sabWbwMSLF0H6AOS2iUjSUr3CN?usp=sharing)
+
+### **Local Development**
 ```bash
+# Clone repository
 git clone https://github.com/SWMLearner/deep-learning-fashion-classifier.git
-cd fashion-mnist-deep-learning
+cd deep-learning-fashion-classifier
+
+# Install dependencies
 pip install -r requirements.txt
+
+# Run the Python script
+python fashion_mnist_cnn.py
