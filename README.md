@@ -75,7 +75,7 @@ python fashion_mnist_cnn.py
 ### Training Performance
 | Simple CNN | Deeper CNN | VGG16 |
 |------------|------------|-------|
-| ![Simple CNN Training](assets/simple_cnn_training.png) | ![Deeper CNN Training](assets/deeper_cnn_training.png) | ![VGG16 Training](assets/pretrained_vgg_training.png) |
+| ![Simple CNN Training](https://github.com/SWMLearner/deep-learning-fashion-classifier/blob/main/assets/Simple%20CNN_training.png) | ![Deeper CNN Training](https://github.com/SWMLearner/deep-learning-fashion-classifier/blob/21b627286ad32408a356a5498ccbc11faeb41cb7/assets/Deeper%20CNN_training.png) | ![VGG16 Training](https://github.com/SWMLearner/deep-learning-fashion-classifier/blob/main/assets/Pretrained%20VGG_training.png) |
 
 ### Model Comparison
 ![Model Comparison](assets/model_comparison.png)
