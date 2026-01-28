@@ -1,6 +1,6 @@
-# Fashion MNIST Deep Learning: CNN Architecture Comparison
+# 👔 Fashion MNIST Classifier: Optimizing CNNs for E-Commerce Efficiency
 
-**Achieved 91.9% accuracy with custom CNN, outperforming transfer learning for low-resolution specialized domains.**
+**A deep learning project that proves custom CNNs outperform transfer learning for low-resolution product images, delivering a production-ready model for automated fashion categorization.**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oIF4q5sabWbwMSLF0H6AOS2iUjSUr3CN?usp=sharing)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
@@ -8,16 +8,14 @@
 ![Keras](https://img.shields.io/badge/Keras-API-red)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-grey)
 
-## 🎯 Business Impact
-**Objective:** Automate e-commerce product categorization to reduce manual labeling costs by 60-70% through computer vision automation.
 
-**Business Impact Metrics:**
-| Metric | Target | Achievement |
-|--------|---------|-------------|
-| **Labeling Cost Reduction** | 60-70% | *Simulated* |
-| **Model Accuracy** | >90% | **91.9%** |
-| **Inference Speed** | <20ms | **<10ms** |
-| **Training Optimization** | - | **4.8x speedup** |
+
+| **Aspect** | **Details** |
+|------------|-------------|
+| **Business Goal** | Automate e-commerce product tagging to reduce manual labeling costs |
+| **Key Finding** | **Custom CNN (91.9% accuracy)** beats VGG16 Transfer Learning (87%) |
+| **Production Insight** | Tailored architectures are superior for specialized, low-res domains |
+| **Deployment Ready** | Model optimized for <10ms inference & 4.8x faster training |
 
 ## 📊 Project Overview
 Systematic comparison of three CNN architectures for fashion image classification, evaluating accuracy vs. complexity tradeoffs for production deployment.
